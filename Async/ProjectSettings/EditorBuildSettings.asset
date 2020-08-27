@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/New Folder/A.unity
+    guid: 0e26458ce3bf6994f844776e3725907a
+  - enabled: 1
+    path: Assets/Demo.unity
+    guid: 0f3b2c9ab868b97469346c7e15c2b96d
+  - enabled: 1
+    path: Assets/ProgressScene.unity
+    guid: 8167169dd18bb8c429507ea1ebb76792
+  m_configObjects: {}
